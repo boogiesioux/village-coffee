@@ -1,17 +1,17 @@
 
 /* Global */
 body {
-  background: #fdf8ee;
+  background: #f1f4d5;
   margin: 0;
   font-family: "Patrick Hand", cursive;
-  color: #4b2e19;
+  color: #3f1311;
 }
 
 /* Scrapbook background */
 .scrapbook-section {
   width: 100%;
   padding: 4rem 1rem;
-  background: #f8f3e7;
+  background: #f1f4d5;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -128,7 +128,7 @@ body {
 .info-section {
   text-align: center;
   padding: 3rem 1rem;
-  background: #fdf8ee;
+  background: #fif4d5;
 }
 
 .info-section h3 {
